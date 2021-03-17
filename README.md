@@ -1,7 +1,7 @@
 
 
 <br/>
-<img src="https://github.com/popo2122/portfolio/blob/main/intro.jpg" alt="introduce" />
+<img src="https://github.com/popo2122/popo2122/blob/main/intro.jpg" alt="introduce" />
 <br/>
 
 
