@@ -1,11 +1,7 @@
+# Hi, I'm Woojeong
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:popo2122@gmail.com)](mailto:popo2122@gmail.com)
 
-
-<br/>
-<img src="https://github.com/popo2122/popo2122/blob/main/intro.jpg" alt="introduce" />
-<br/>
-
-
-<!---
-popo2122/popo2122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 웹퍼블리셔로서 나아가기 위해 준비중이에요!🙆🏻‍♀️✨
+* Photoshop, Illustrator, VSCODE, jQuery 사용
+* 사용자를 생각하는 UX를 항상 고려하려고 노력해요❣️
+* 소통을 통해 더 좋은 디자인과 코드를 만들기위해 노력해요
